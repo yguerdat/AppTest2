@@ -1,0 +1,19 @@
+{
+  "dashboard": "Tableau de bord",
+  "tasks": "Tâches",
+  "profile": "Profil",
+  "login": "Connexion",
+  "username": "Nom d'utilisateur",
+  "password": "Mot de passe",
+  "email": "E-mail",
+  "notifications": "Notifications",
+  "newTaskNotification": "Nouvelle tâche assignée",
+  "newCommentNotification": "Nouveau commentaire sur la tâche",
+  "saveChanges": "Enregistrer les modifications",
+  "search": "Rechercher des tâches...",
+  "allStates": "Tous les états",
+  "allPriorities": "Toutes les priorités",
+  "filter": "Filtrer",
+  "loading": "Chargement...",
+  "dueDate": "Date d'échéance"
+}

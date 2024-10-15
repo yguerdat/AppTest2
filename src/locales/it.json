@@ -1,0 +1,19 @@
+{
+  "dashboard": "Dashboard",
+  "tasks": "Compiti",
+  "profile": "Profilo",
+  "login": "Accesso",
+  "username": "Nome utente",
+  "password": "Password",
+  "email": "Email",
+  "notifications": "Notifiche",
+  "newTaskNotification": "Nuovo compito assegnato",
+  "newCommentNotification": "Nuovo commento sul compito",
+  "saveChanges": "Salva modifiche",
+  "search": "Cerca compiti...",
+  "allStates": "Tutti gli stati",
+  "allPriorities": "Tutte le priorità",
+  "filter": "Filtra",
+  "loading": "Caricamento...",
+  "dueDate": "Data di scadenza"
+}

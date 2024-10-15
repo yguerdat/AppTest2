@@ -1,0 +1,19 @@
+{
+  "dashboard": "Dashboard",
+  "tasks": "Tasks",
+  "profile": "Profile",
+  "login": "Login",
+  "username": "Username",
+  "password": "Password",
+  "email": "Email",
+  "notifications": "Notifications",
+  "newTaskNotification": "New task assigned",
+  "newCommentNotification": "New comment on task",
+  "saveChanges": "Save Changes",
+  "search": "Search tasks...",
+  "allStates": "All States",
+  "allPriorities": "All Priorities",
+  "filter": "Filter",
+  "loading": "Loading...",
+  "dueDate": "Due Date"
+}
